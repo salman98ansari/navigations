@@ -11,7 +11,7 @@ const DrawerContent = (props) => {
           <View style={{ paddingLeft: 20 }}>
             <View style={{ flexDirection: "row", marginTop: 15 }}>
               <View>
-                <Text>Salman Ansari</Text>
+                <Text>Salman Ansarii</Text>
               </View>
             </View>
           </View>
